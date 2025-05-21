@@ -4,16 +4,16 @@
 # 🎮 Video Game Projects
 I was employed as a facilitator for a New York University Create Lab program where I taught coding in Game Design to high school students. During this, I overlooked many projects, playing a key role in bringing ideas of over 10+ video games to life.
 
-Netizen
-Netizen, created by bitzbytz, is set in a futuristic sci-fi realm, this multiplayer video game features dynamic dashing, projectile, and combat mechanics. Engage in battles with a friend on a single laptop, utilizing just one keyboard.
+Netizen<br>
+Netizen, created by bitzbytz, is set in a futuristic sci-fi realm, this multiplayer video game features dynamic dashing, projectile, and combat mechanics. Engage in battles with a friend on a single laptop, utilizing just one keyboard.<br>
 https://bitzbytz.itch.io/netizen
 
-Aerial Aescent
-Set in a frosty tundra, Aerial Ascent, created by fifiinart and his team, requires players to navigate using a crucial grappling hook mechanic. The game also includes additional features such as waypoints.
+Aerial Aescent<br>
+Set in a frosty tundra, Aerial Ascent, created by fifiinart and his team, requires players to navigate using a crucial grappling hook mechanic. The game also includes additional features such as waypoints.<br>
 https://fifiinart.itch.io/aerialascent
 
-Slice of Life
-Wh1te6324's Slice of Life is an endless runner game where you play as a pizza slice dashing through the bustling streets of Manhattan, much like in Subway Surfers. Navigate through obstacles, collect toppings, and enjoy the quirky, fast-paced adventure.
+Slice of Life<br>
+Wh1te6324's Slice of Life is an endless runner game where you play as a pizza slice dashing through the bustling streets of Manhattan, much like in Subway Surfers. Navigate through obstacles, collect toppings, and enjoy the quirky, fast-paced adventure.<br>
 https://wh1te6324.itch.io/slice-of-time
 
 # 💻 Tech Skill Stack
