@@ -1,5 +1,5 @@
 # 💫 About Me
-🍓 Computer Science Graduate from NYU<br>🔭 I'm currently working on a stat-based progression system discord bot<br>🌼 I’m looking to collaborate in video game development<br>🌱 I’m currently learning C++ and Unreal Engine<br><br>⚡ Check out my profile !
+🍓 Computer Science Graduate from NYU<br>🔭 I'm currently working on a stat-based progression system discord bot<br>🌼 I do software engineering for Epic Games<br>🌱 I’m currently learning C++ and Unreal Engine<br><br>⚡ Check out my profile !
 
 
 # 💻 Tech Skill Stack
