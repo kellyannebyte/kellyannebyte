@@ -1,5 +1,5 @@
 # 💫 About Me
-🍓 Computer Science Graduate<br>🔭 I'm currently working on a stat-based progression system discord bot<br>🌼 I do software engineering for Epic Games<br>🌱 I’m currently learning C++ and Unreal Engine<br><br>⚡ Check out my profile !
+🍓 Computer Science Graduate<br>🔭 I'm currently working on a stat-based progression system discord bot<br>🌼 I do software engineering for Amazon<br>🌱 I worked at Epic Games<br><br>⚡ Check out my profile !
 
 # 🎮 Video Game Projects
 I was employed as a facilitator for a NYU's Game Center/Create Lab program where I taught coding in C#/Unity Game Design to high school students. During this, I overlooked many projects, playing a key role in bringing ideas of 10+ video games to life.
